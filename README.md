@@ -20,5 +20,5 @@ Bu repo Yetgen Jump Python eğitimi için açılmıştır.
  - Değişkenler ve Tanımlama Kuralları
  - Type Fonksiyonu
  - Sayı Veri Türleri, Matematiksel İşlemler
- - String, Boolean Veri türleri
+ - String, Boolean Veri Türleri
  - İnput Fonksiyonu
