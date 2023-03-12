@@ -23,3 +23,17 @@ Bu repo Yetgen Jump Python eğitimi için açılmıştır.
  - Sayı Veri Türleri, Matematiksel İşlemler
  - String, Boolean Veri Türleri
  - İnput Fonksiyonu
+
+ ## 3. Hafta
+ - Karşılaştırma Operatörleri
+ - Mantıksal Operatörler
+ - Karar Yapıları
+ - Döngüler
+
+ ## 4. Hafta
+ - Listeler
+   - Liste metodları ve liste toplama
+ - Tuple(Demet)
+ - Set
+ - Dictionary(Sözlük)
+ - String    
